@@ -1,0 +1,94 @@
+url,type,stad_of_silo,pagina_titel,hoofd_keyword,volume,kd,intent,prioriteit,status,opmerking
+/,root-bestaand,-,Home,de jongens van je weet wel,-,-,N,P0,live,bestaand
+/over,root-bestaand,-,Over ons,-,-,-,N,P2,live,bestaand
+/bezettingen,root-bestaand,-,Bezettingen,band huren,210,28,C,P0,live,bestaand - secundair KW
+/impressie,root-bestaand,-,Impressie,-,-,-,N,P2,live,bestaand
+/video,root-bestaand,-,Video,-,-,-,N,P2,live,bestaand
+/reviews,root-bestaand,-,Reviews,-,-,-,N,P2,live,bestaand
+/contact,root-bestaand,-,Contact,-,-,-,N,P2,live,bestaand
+/boeken,root-bestaand,-,Boeken,band boeken,-,-,T,P0,live,bestaand
+/offerte,root-bestaand,-,Offerte aanvragen,band offerte,-,-,T,P0,live,bestaand
+/locaties,root-bestaand,-,Locaties,-,-,-,N,P0,TBD,upgrade naar overzicht-hub voor 5 stad-hubs
+/faq,root-bestaand,-,FAQ,-,-,-,I,P2,live,bestaand
+/privacy,root-bestaand,-,Privacy,-,-,-,N,P2,live,bestaand
+/breda,stad-hub,Breda,Uitgaan in Breda - alle hotspots,uitgaan breda,880,17,C,P0,TBD KWO-VAL,stad-hub - cluster ~1700
+/breda/wat-te-doen,stad-sub,Breda,Wat te doen in Breda,wat te doen in breda,2400,25,I,P0,TBD KWO-VAL,TOPPER - hoogste volume Breda
+/breda/uitjes,stad-sub,Breda,Uitjes in Breda,uitjes breda,880,28,I,P0,TBD KWO-VAL,topper
+/breda/bedrijfsuitje,stad-sub,Breda,Bedrijfsuitje in Breda,bedrijfsuitje breda,320,6,C,P0,TBD KWO-VAL,KD 6 - extreme quick win
+/breda/vrijgezellenfeest,stad-sub,Breda,Vrijgezellenfeest in Breda,vrijgezellenfeest breda,390,11,I,P0,TBD KWO-VAL,cluster 1500 - KD 3-11
+/breda/trouwlocatie,stad-sub,Breda,Trouwlocatie in Breda,trouwlocatie breda,320,21,C,P1,TBD KWO-VAL,
+/breda/feestlocatie,stad-sub,Breda,Feestlocatie in Breda,feestlocatie breda,210,15,C,P1,TBD KWO-VAL,
+/breda/live-muziek,stad-sub,Breda,Live muziek in Breda,live muziek breda,110,14,C,P1,TBD KWO-VAL,vandaag-variant 320
+/breda/bezienswaardigheden,stad-sub,Breda,Bezienswaardigheden in Breda,bezienswaardigheden breda,880,26,I,P1,TBD KWO-VAL,
+/breda/kroegen,stad-sub,Breda,Kroegen in Breda,kroegen breda,390,19,C,P1,TBD KWO-VAL,KD 63 voor enkelvoud - haalbaar via meervoud
+/breda/date-activiteiten,stad-sub,Breda,Date-activiteiten in Breda,date breda,140,12,I,P1,TBD KWO-VAL,KD laag
+/breda/evenementenlocatie,stad-sub,Breda,Evenementenlocatie in Breda,evenementenlocatie breda,210,34,C,P2,TBD KWO-VAL,B2B intent
+/breda/stappen,stad-sub,Breda,Stappen in Breda,stappen breda,140,15,N,P2,TBD KWO-VAL,
+/breda/avondje-uit,stad-sub,Breda,Avondje uit in Breda,avondje uit breda,110,11,I,P2,TBD KWO-VAL,laag maar haalbaar
+/utrecht,stad-hub,Utrecht,Uitgaan in Utrecht,uitgaan in utrecht,1600,20,C,P0,TBD KWO-VAL,stad-hub
+/utrecht/wat-te-doen,stad-sub,Utrecht,Wat te doen in Utrecht,wat te doen in utrecht,3600,23,I,P0,TBD KWO-VAL,TOPPER NL
+/utrecht/uitjes,stad-sub,Utrecht,Uitjes in Utrecht,uitjes utrecht,1900,29,C,P0,TBD KWO-VAL,topper
+/utrecht/bedrijfsuitje,stad-sub,Utrecht,Bedrijfsuitje in Utrecht,bedrijfsuitje utrecht,880,12,C,P0,TBD KWO-VAL,TOPPER B2B
+/utrecht/bezienswaardigheden,stad-sub,Utrecht,Bezienswaardigheden in Utrecht,bezienswaardigheden utrecht,720,25,I,P0,TBD KWO-VAL,
+/utrecht/kroegen,stad-sub,Utrecht,Kroegen in Utrecht,kroeg utrecht,720,22,C,P0,TBD KWO-VAL,cluster groot
+/utrecht/trouwlocatie,stad-sub,Utrecht,Trouwlocaties in Utrecht,trouwlocaties utrecht,590,20,C,P1,TBD KWO-VAL,
+/utrecht/vrijgezellenfeest,stad-sub,Utrecht,Vrijgezellenfeest in Utrecht,vrijgezellenfeest utrecht,590,11,I,P1,TBD KWO-VAL,
+/utrecht/evenementenlocatie,stad-sub,Utrecht,Evenementenlocatie in Utrecht,evenementenlocatie utrecht,590,25,C,P1,TBD KWO-VAL,
+/utrecht/date-activiteiten,stad-sub,Utrecht,Date-activiteiten in Utrecht,date ideeen utrecht,590,12,I,P1,TBD KWO-VAL,
+/utrecht/live-muziek,stad-sub,Utrecht,Live muziek in Utrecht,live muziek utrecht,390,25,C,P1,TBD KWO-VAL,
+/utrecht/restaurant-met-live-muziek,stad-sub,Utrecht,Restaurant met live muziek in Utrecht,restaurant met live muziek utrecht,110,19,C,P2,TBD KWO-VAL,Utrecht-specifiek - heeft volume
+/utrecht/feestlocatie,stad-sub,Utrecht,Feestlocatie in Utrecht,feestlocatie utrecht,260,24,C,P2,TBD KWO-VAL,
+/utrecht/stappen,stad-sub,Utrecht,Stappen in Utrecht,stappen in utrecht,170,13,I,P2,TBD KWO-VAL,
+/utrecht/avondje-uit,stad-sub,Utrecht,Avondje uit in Utrecht,avondje uit utrecht,90,12,I,P2,TBD KWO-VAL,laag
+/eindhoven,stad-hub,Eindhoven,Uitgaan in Eindhoven,uitgaan eindhoven,880,21,C,P0,TBD KWO-VAL,stad-hub
+/eindhoven/wat-te-doen,stad-sub,Eindhoven,Wat te doen in Eindhoven,wat te doen in eindhoven vandaag,590,27,I,P0,TBD KWO-VAL,topper
+/eindhoven/uitjes,stad-sub,Eindhoven,Uitjes in Eindhoven,uitjes eindhoven,720,37,C,P0,TBD KWO-VAL,KD wat hoger
+/eindhoven/bedrijfsuitje,stad-sub,Eindhoven,Bedrijfsuitje in Eindhoven,bedrijfsuitje eindhoven,480,24,C,P0,TBD KWO-VAL,sterk
+/eindhoven/bezienswaardigheden,stad-sub,Eindhoven,Bezienswaardigheden in Eindhoven,bezienswaardigheden eindhoven,590,24,I,P1,TBD KWO-VAL,
+/eindhoven/vrijgezellenfeest,stad-sub,Eindhoven,Vrijgezellenfeest in Eindhoven,vrijgezellenfeest eindhoven,320,11,I,P1,TBD KWO-VAL,
+/eindhoven/evenementenlocatie,stad-sub,Eindhoven,Evenementenlocatie in Eindhoven,evenementenlocatie eindhoven,320,20,C,P1,TBD KWO-VAL,
+/eindhoven/date-activiteiten,stad-sub,Eindhoven,Date-activiteiten in Eindhoven,date eindhoven ideeen,260,10,I,P1,TBD KWO-VAL,KD 10
+/eindhoven/kroegen,stad-sub,Eindhoven,Kroegen in Eindhoven,eindhoven kroegen,210,15,C,P1,TBD KWO-VAL,
+/eindhoven/feestlocatie,stad-sub,Eindhoven,Feestlocatie in Eindhoven,feestlocatie eindhoven,210,17,I,P1,TBD KWO-VAL,
+/eindhoven/live-muziek,stad-sub,Eindhoven,Live muziek in Eindhoven,live muziek eindhoven,140,19,C,P2,TBD KWO-VAL,vandaag-variant 260
+/eindhoven/trouwlocatie,stad-sub,Eindhoven,Trouwlocatie in Eindhoven,trouwlocatie eindhoven,110,26,C,P2,TBD KWO-VAL,laag - twijfel
+/eindhoven/stappen,stad-sub,Eindhoven,Stappen in Eindhoven,stappen in eindhoven,70,8,I,P2,TBD KWO-VAL,laag - haalbaar
+/rotterdam,stad-hub,Rotterdam,Uitgaan in Rotterdam,uitgaan in rotterdam,880,26,C,P0,TBD KWO-VAL,stad-hub + bijzonder restaurant uitlichten
+/rotterdam/wat-te-doen,stad-sub,Rotterdam,Wat te doen in Rotterdam,wat te doen in rotterdam vandaag,720,30,I,P0,TBD KWO-VAL,topper
+/rotterdam/uitjes,stad-sub,Rotterdam,Uitjes in Rotterdam,uitje rotterdam,720,32,C,P0,TBD KWO-VAL,topper
+/rotterdam/vrijgezellenfeest,stad-sub,Rotterdam,Vrijgezellenfeest in Rotterdam,vrijgezellenfeest rotterdam,590,12,I,P0,TBD KWO-VAL,topper
+/rotterdam/restaurant-met-live-muziek,stad-sub,Rotterdam,Restaurant met live muziek in Rotterdam,restaurant met live muziek rotterdam,140,14,C,P0,TBD KWO-VAL,UIT BRIEFING - bijzonder restaurant uitlichten
+/rotterdam/cafe-met-live-muziek,stad-sub,Rotterdam,Café met live muziek in Rotterdam,cafe met live muziek rotterdam,170,16,C,P1,TBD KWO-VAL,Rotterdam-specifiek (Breda 20)
+/rotterdam/bezienswaardigheden,stad-sub,Rotterdam,Bezienswaardigheden in Rotterdam,bezienswaardigheden in rotterdam,480,17,I,P1,TBD KWO-VAL,
+/rotterdam/date-activiteiten,stad-sub,Rotterdam,Date-activiteiten in Rotterdam,date ideeen rotterdam,480,13,I,P1,TBD KWO-VAL,
+/rotterdam/trouwlocatie,stad-sub,Rotterdam,Trouwlocaties in Rotterdam,trouwlocaties rotterdam,390,22,C,P1,TBD KWO-VAL,
+/rotterdam/bedrijfsuitje,stad-sub,Rotterdam,Bedrijfsuitje in Rotterdam,bedrijfsuitjes rotterdam,390,25,C,P1,TBD KWO-VAL,
+/rotterdam/kroegen,stad-sub,Rotterdam,Kroegen in Rotterdam,kroeg in rotterdam,390,22,C,P1,TBD KWO-VAL,cluster groot
+/rotterdam/evenementenlocatie,stad-sub,Rotterdam,Evenementenlocatie in Rotterdam,evenementenlocatie rotterdam,320,26,C,P1,TBD KWO-VAL,
+/rotterdam/live-muziek,stad-sub,Rotterdam,Live muziek in Rotterdam,live muziek in rotterdam,320,19,C,P1,TBD KWO-VAL,
+/rotterdam/feestlocatie,stad-sub,Rotterdam,Feestlocatie in Rotterdam,feestlocatie rotterdam,210,19,C,P2,TBD KWO-VAL,
+/rotterdam/avondje-uit,stad-sub,Rotterdam,Avondje uit in Rotterdam,avondje uit in rotterdam,170,19,I,P2,TBD KWO-VAL,
+/rotterdam/stappen,stad-sub,Rotterdam,Stappen in Rotterdam,stappen in rotterdam,110,21,I,P2,TBD KWO-VAL,laag
+/renesse,stad-hub,Renesse,Uitgaan in Renesse,renesse uitgaan,320,21,N,P0,TBD KWO-VAL,stad-hub - toeristisch
+/renesse/strandtenten,stad-sub,Renesse,Strandtenten in Renesse,strandtent renesse,720,41,C,P0,TBD KWO-VAL,TOPPER Renesse - KD wat hoger
+/renesse/wat-te-doen,stad-sub,Renesse,Wat te doen in Renesse,wat te doen in renesse,480,16,I,P0,TBD KWO-VAL,topper
+/renesse/vakantie,stad-sub,Renesse,Vakantie in Renesse,vakantie renesse,320,17,T,P1,TBD KWO-VAL,transactional intent
+/renesse/activiteiten,stad-sub,Renesse,Activiteiten in Renesse,activiteiten renesse,320,16,I,P1,TBD KWO-VAL,
+/renesse/bezienswaardigheden,stad-sub,Renesse,Bezienswaardigheden in Renesse,bezienswaardigheden renesse,90,18,C,P2,TBD KWO-VAL,laag
+/renesse/uitjes,stad-sub,Renesse,Uitjes in Renesse,uitjes in renesse,70,22,I,P2,TBD KWO-VAL,laag
+/renesse/live-muziek,stad-sub,Renesse,Live muziek bij Bar de Stulp,live muziek renesse,20,n/a,n/a,P2,TBD KWO-VAL,laag - content over De Jongens venue
+/pianobar,silo-hub,Pianobar,Pianobar - de meest geboekte pianoshow,pianobar,390,26,C,P0,TBD KWO-VAL,NIEUWE silo - "grootste pianobar van NL" claim 70
+/pianoshow,silo-hub,Pianoshow,Pianoshow boeken,pianoshow boeken,110,6,C,P0,TBD KWO-VAL,KD 6 - extreem laag - SNELLE WIN
+/pianoshow/wat-kost-een-pianoshow,silo-sub,Pianoshow,Wat kost een pianoshow?,-,-,-,C,P2,TBD KWO-VAL,supporting
+/coverband,silo-hub,Coverband,Coverband huren,coverband,880,28,C,P0,TBD KWO-VAL,sterke silo
+/coverband/coverband-boeken,silo-sub,Coverband,Coverband boeken,coverband boeken,320,18,I,P1,TBD KWO-VAL,supporting
+/coverband/coverband-bruiloft,silo-sub,Coverband,Coverband voor bruiloft,coverband bruiloft,170,12,C,P1,TBD KWO-VAL,bridge naar bruiloft
+/coverband/wat-kost-een-coverband,silo-sub,Coverband,Wat kost een coverband?,-,-,-,C,P2,TBD KWO-VAL,supporting
+/bruiloftband,silo-hub,Bruiloftband,Band voor bruiloft,band voor bruiloft,390,16,C,P0,TBD KWO-VAL,hoofd-KW vervangen door "band voor bruiloft"
+/bruiloftband/live-muziek-bruiloft,silo-sub,Bruiloftband,Live muziek voor je bruiloft,live muziek bruiloft,140,17,C,P1,TBD KWO-VAL,
+/bruiloftband/wat-kost-een-bruiloftband,silo-sub,Bruiloftband,Wat kost een bruiloftband?,-,-,-,C,P1,TBD KWO-VAL,supporting - prijs intent
+/bruiloftband/bruiloftband,silo-sub,Bruiloftband,Bruiloftband,bruiloftband,170,23,C,P2,TBD KWO-VAL,specifieke term als sub
+/bedrijfsfeest-band,silo-hub,Bedrijfsfeest-band,Bedrijfsfeest band,bedrijfsfeest band,90,9,I,P0,TBD KWO-VAL,KD 9 - sterk in combi met stad-bedrijfsuitje pagina's
+/bedrijfsfeest-band/personeelsfeest-band,silo-sub,Bedrijfsfeest-band,Band voor personeelsfeest,band voor personeelsfeest,40,3,I,P1,TBD KWO-VAL,KD 3 - quick win
+/bedrijfsfeest-band/bedrijfsjubileum,silo-sub,Bedrijfsfeest-band,Band voor bedrijfsjubileum,-,-,-,C,P2,TBD KWO-VAL,jubileum-content geintegreerd (geen losse silo)
+/bedrijfsfeest-band/wat-kost-een-bedrijfsfeest-band,silo-sub,Bedrijfsfeest-band,Wat kost een bedrijfsfeest-band?,-,-,-,C,P2,TBD KWO-VAL,supporting

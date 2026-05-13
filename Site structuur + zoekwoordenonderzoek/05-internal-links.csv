@@ -1,0 +1,100 @@
+van_url,naar_url,anchor_text,link_locatie,verplicht_of_optioneel,reden
+# === REGEL 1: Sitewide footer-links naar 5 silo-hubs ===
+*,/pianoshow,Pianoshow boeken,footer,verplicht,Silo-autoriteit sitewide
+*,/pianobar,Pianobar op locatie,footer,verplicht,Silo-autoriteit sitewide
+*,/coverband,Coverband boeken,footer,verplicht,Silo-autoriteit sitewide
+*,/bruiloftband,Band voor bruiloft,footer,verplicht,Silo-autoriteit sitewide
+*,/bedrijfsfeest-band,Bedrijfsfeest band,footer,verplicht,Silo-autoriteit sitewide
+# === REGEL 2: Sitewide footer-links naar 5 stad-hubs ===
+*,/breda,De Jongens in Breda,footer,verplicht,Geografische autoriteit
+*,/utrecht,De Jongens in Utrecht,footer,verplicht,Geografische autoriteit
+*,/eindhoven,De Jongens in Eindhoven,footer,verplicht,Geografische autoriteit
+*,/rotterdam,De Jongens in Rotterdam,footer,verplicht,Geografische autoriteit
+*,/renesse,De Jongens in Renesse,footer,verplicht,Geografische autoriteit
+# === REGEL 3: Stad-hub linkt naar al zijn sub-pagina's ===
+/breda,/breda/wat-te-doen,Wat te doen in Breda,body,verplicht,Hub→sub
+/breda,/breda/uitjes,Uitjes in Breda,body,verplicht,Hub→sub
+/breda,/breda/bedrijfsuitje,Bedrijfsuitje in Breda,body,verplicht,Hub→sub (P0)
+/breda,/breda/vrijgezellenfeest,Vrijgezellenfeest in Breda,body,verplicht,Hub→sub
+/breda,/breda/trouwlocatie,Trouwlocatie in Breda,body,verplicht,Hub→sub
+/breda,/breda/feestlocatie,Feestlocatie in Breda,body,verplicht,Hub→sub
+/breda,/breda/live-muziek,Live muziek in Breda,body,verplicht,Hub→sub
+/breda,/breda/bezienswaardigheden,Bezienswaardigheden Breda,body,optioneel,Hub→sub
+/breda,/breda/kroegen,Kroegen in Breda,body,optioneel,Hub→sub
+/breda,/breda/date-activiteiten,Date in Breda,body,optioneel,Hub→sub
+/breda,/breda/evenementenlocatie,Evenementenlocatie Breda,body,optioneel,Hub→sub
+/breda,/breda/stappen,Stappen in Breda,body,optioneel,Hub→sub
+/breda,/breda/avondje-uit,Avondje uit Breda,body,optioneel,Hub→sub
+# (Patroon herhaalt voor /utrecht, /eindhoven, /rotterdam, /renesse — zie REGEL 3 voor elk)
+# === REGEL 4: Iedere stad-sub linkt terug naar stad-hub ===
+/breda/wat-te-doen,/breda,Uitgaan in Breda,breadcrumb+body,verplicht,Sub→hub
+/breda/uitjes,/breda,Uitgaan in Breda,breadcrumb+body,verplicht,Sub→hub
+/breda/bedrijfsuitje,/breda,Uitgaan in Breda,breadcrumb+body,verplicht,Sub→hub
+# (Patroon herhaalt voor alle stad-subs in alle 5 steden)
+# === REGEL 5: Stad-sub linkt naar relevante silo ===
+/breda/bedrijfsuitje,/bedrijfsfeest-band,Bedrijfsfeest band boeken,body,verplicht,Stad-sub→silo (thematisch)
+/utrecht/bedrijfsuitje,/bedrijfsfeest-band,Bedrijfsfeest band boeken,body,verplicht,Stad-sub→silo
+/eindhoven/bedrijfsuitje,/bedrijfsfeest-band,Bedrijfsfeest band boeken,body,verplicht,Stad-sub→silo
+/rotterdam/bedrijfsuitje,/bedrijfsfeest-band,Bedrijfsfeest band boeken,body,verplicht,Stad-sub→silo
+/breda/trouwlocatie,/bruiloftband,Band voor bruiloft,body,verplicht,Stad-sub→silo
+/utrecht/trouwlocatie,/bruiloftband,Band voor bruiloft,body,verplicht,Stad-sub→silo
+/eindhoven/trouwlocatie,/bruiloftband,Band voor bruiloft,body,verplicht,Stad-sub→silo
+/rotterdam/trouwlocatie,/bruiloftband,Band voor bruiloft,body,verplicht,Stad-sub→silo
+/breda/live-muziek,/pianoshow,Pianoshow boeken,body,verplicht,Stad-sub→silo
+/utrecht/live-muziek,/pianoshow,Pianoshow boeken,body,verplicht,Stad-sub→silo
+/eindhoven/live-muziek,/pianoshow,Pianoshow boeken,body,verplicht,Stad-sub→silo
+/rotterdam/live-muziek,/pianoshow,Pianoshow boeken,body,verplicht,Stad-sub→silo
+/renesse/live-muziek,/pianoshow,Pianoshow boeken,body,verplicht,Stad-sub→silo
+/rotterdam/restaurant-met-live-muziek,/pianobar,Pianobar op locatie,body,verplicht,Stad-sub→silo
+/rotterdam/cafe-met-live-muziek,/pianobar,Pianobar op locatie,body,verplicht,Stad-sub→silo
+/utrecht/restaurant-met-live-muziek,/pianobar,Pianobar op locatie,body,verplicht,Stad-sub→silo
+/breda/feestlocatie,/bedrijfsfeest-band,Bedrijfsfeest band,body,optioneel,B2B-cross-sell
+/utrecht/feestlocatie,/bedrijfsfeest-band,Bedrijfsfeest band,body,optioneel,B2B-cross-sell
+/breda/evenementenlocatie,/bedrijfsfeest-band,Bedrijfsfeest band,body,verplicht,B2B cross-sell
+/utrecht/evenementenlocatie,/bedrijfsfeest-band,Bedrijfsfeest band,body,verplicht,B2B cross-sell
+/eindhoven/evenementenlocatie,/bedrijfsfeest-band,Bedrijfsfeest band,body,verplicht,B2B cross-sell
+/rotterdam/evenementenlocatie,/bedrijfsfeest-band,Bedrijfsfeest band,body,verplicht,B2B cross-sell
+# === REGEL 6: Iedere silo-hub linkt naar alle 5 stad-hubs ===
+/pianoshow,/breda,Wekelijks live in Breda,body,verplicht,Geografische ankering silo
+/pianoshow,/utrecht,Wekelijks live in Utrecht,body,verplicht,Geografische ankering silo
+/pianoshow,/eindhoven,Wekelijks live in Eindhoven,body,verplicht,Geografische ankering silo
+/pianoshow,/rotterdam,Wekelijks live in Rotterdam,body,verplicht,Geografische ankering silo
+/pianoshow,/renesse,Wekelijks live in Renesse,body,verplicht,Geografische ankering silo
+/pianobar,/breda,Pianobar Breda,body,verplicht,Geografische ankering silo
+/pianobar,/utrecht,Pianobar Utrecht,body,verplicht,Geografische ankering silo
+/pianobar,/eindhoven,Pianobar Eindhoven,body,verplicht,Geografische ankering silo
+/pianobar,/rotterdam,Pianobar Rotterdam,body,verplicht,Geografische ankering silo + 30/mnd KW
+/pianobar,/renesse,Pianobar Renesse,body,verplicht,Geografische ankering silo
+/coverband,/breda,Coverband Breda,body,verplicht,Geografische ankering silo
+/coverband,/utrecht,Coverband Utrecht,body,verplicht,Geografische ankering silo
+/coverband,/eindhoven,Coverband Eindhoven,body,verplicht,Geografische ankering silo
+/coverband,/rotterdam,Coverband Rotterdam,body,verplicht,Geografische ankering silo
+/coverband,/renesse,Coverband Renesse,body,verplicht,Geografische ankering silo
+/bruiloftband,/breda/trouwlocatie,Trouwlocatie Breda,body,verplicht,Silo→relevante stad-sub
+/bruiloftband,/utrecht/trouwlocatie,Trouwlocatie Utrecht,body,verplicht,Silo→relevante stad-sub
+/bruiloftband,/eindhoven/trouwlocatie,Trouwlocatie Eindhoven,body,verplicht,Silo→relevante stad-sub
+/bruiloftband,/rotterdam/trouwlocatie,Trouwlocatie Rotterdam,body,verplicht,Silo→relevante stad-sub
+/bedrijfsfeest-band,/breda/bedrijfsuitje,Bedrijfsuitje Breda,body,verplicht,Silo→relevante stad-sub
+/bedrijfsfeest-band,/utrecht/bedrijfsuitje,Bedrijfsuitje Utrecht,body,verplicht,Silo→relevante stad-sub
+/bedrijfsfeest-band,/eindhoven/bedrijfsuitje,Bedrijfsuitje Eindhoven,body,verplicht,Silo→relevante stad-sub
+/bedrijfsfeest-band,/rotterdam/bedrijfsuitje,Bedrijfsuitje Rotterdam,body,verplicht,Silo→relevante stad-sub
+# === REGEL 7: Silo-subs linken terug naar silo-hub ===
+/coverband/coverband-bruiloft,/coverband,Coverband boeken,breadcrumb+body,verplicht,Sub→hub
+/coverband/coverband-boeken,/coverband,Coverband boeken,breadcrumb+body,verplicht,Sub→hub
+/bruiloftband/live-muziek-bruiloft,/bruiloftband,Band voor bruiloft,breadcrumb+body,verplicht,Sub→hub
+/bedrijfsfeest-band/personeelsfeest-band,/bedrijfsfeest-band,Bedrijfsfeest band,breadcrumb+body,verplicht,Sub→hub
+# === REGEL 8: Silo cross-links (gerelateerd) ===
+/coverband,/bruiloftband,Band voor bruiloft,body,verplicht,Gerelateerde silo
+/coverband,/bedrijfsfeest-band,Bedrijfsfeest band,body,verplicht,Gerelateerde silo
+/bruiloftband,/coverband/coverband-bruiloft,Coverband voor bruiloft,body,verplicht,Bridge naar coverband-sub
+/pianoshow,/pianobar,Pianobar op locatie,body,verplicht,Gerelateerde silo
+/pianobar,/pianoshow,Pianoshow boeken,body,verplicht,Gerelateerde silo
+# === REGEL 9: Alle silo-hubs en stad-hubs linken naar /bezettingen en /boeken ===
+*,/bezettingen,Bekijk bezettingen,body,verplicht,CTA-funnel
+*,/boeken,Check je datum,body,verplicht,CTA-funnel
+# === REGEL 10: Bestaande /locaties wordt overzicht-hub naar 5 stad-hubs ===
+/locaties,/breda,Breda,body,verplicht,Locaties-hub uitbreiden
+/locaties,/utrecht,Utrecht,body,verplicht,Locaties-hub uitbreiden
+/locaties,/eindhoven,Eindhoven,body,verplicht,Locaties-hub uitbreiden
+/locaties,/rotterdam,Rotterdam,body,verplicht,Locaties-hub uitbreiden
+/locaties,/renesse,Renesse,body,verplicht,Locaties-hub uitbreiden

@@ -1,0 +1,143 @@
+url,type,stad_of_silo,pagina_titel_voorlopig,hoofd_keyword_concept,search_intent,prioriteit,status,opmerking
+/,root-bestaand,-,Home,de jongens van je weet wel,navigational,P0,live,bestaand - geen aanpassing in deze fase
+/over,root-bestaand,-,Over ons,de jongens van je weet wel,navigational,P2,live,bestaand
+/bezettingen,root-bestaand,-,Bezettingen,bezetting band huren,commercial,P0,live,bestaand - alle silo's linken hierheen voor boeking
+/impressie,root-bestaand,-,Impressie,-,navigational,P2,live,bestaand
+/video,root-bestaand,-,Video,-,navigational,P2,live,bestaand
+/reviews,root-bestaand,-,Reviews,-,navigational,P2,live,bestaand
+/contact,root-bestaand,-,Contact,-,navigational,P2,live,bestaand
+/boeken,root-bestaand,-,Boeken,band boeken,transactional,P0,live,bestaand - eindbestemming van CTA's
+/offerte,root-bestaand,-,Offerte aanvragen,band offerte,transactional,P0,live,bestaand
+/locaties,root-bestaand,-,Locaties,-,navigational,P0,TBD,upgrade naar overzichts-hub die linkt naar 5 stad-hubs
+/faq,root-bestaand,-,FAQ,-,informational,P2,live,bestaand
+/privacy,root-bestaand,-,Privacy,-,navigational,P2,live,bestaand
+/breda,stad-hub,Breda,Uitgaan in Breda - alle hotspots,uitgaan breda,informational,P0,TBD KWO,stad-hub - centrale ingang voor alle Breda sub-pagina's
+/breda/pianobar,stad-sub,Breda,Pianobar Breda,pianobar breda,commercial,P1,TBD KWO,uit briefing
+/breda/cafe-met-live-muziek,stad-sub,Breda,Café met live muziek in Breda,cafe met live muziek breda,commercial,P1,TBD KWO,uit briefing
+/breda/dineren-met-live-muziek,stad-sub,Breda,Dineren met live muziek in Breda,dineren met live muziek breda,commercial,P1,TBD KWO,uit briefing
+/breda/restaurant-met-live-muziek,stad-sub,Breda,Restaurant met live muziek Breda,restaurant met live muziek breda,commercial,P1,TBD KWO,uit briefing
+/breda/uitjes,stad-sub,Breda,Uitjes in Breda,uitjes in breda,informational,P1,TBD KWO,uit briefing
+/breda/wat-te-doen,stad-sub,Breda,Wat te doen in Breda,wat te doen in breda,informational,P1,TBD KWO,uit briefing
+/breda/bezienswaardigheden,stad-sub,Breda,Bezienswaardigheden in Breda,bezienswaardigheden breda,informational,P2,TBD KWO,uit briefing
+/breda/date-activiteiten,stad-sub,Breda,Date-activiteiten in Breda,date activiteiten breda,commercial,P1,TBD KWO,uit briefing
+/breda/live-muziek,stad-sub,Breda,Live muziek in Breda,live muziek breda,commercial,P0,TBD KWO,uit briefing - hoogste relevantie
+/breda/stappen,stad-sub,Breda,Stappen in Breda,stappen in breda,informational,P2,TBD KWO,toegevoegd
+/breda/kroegen,stad-sub,Breda,Kroegen in Breda,kroegen breda,commercial,P2,TBD KWO,toegevoegd
+/breda/avondje-uit,stad-sub,Breda,Avondje uit in Breda,avondje uit breda,informational,P2,TBD KWO,toegevoegd
+/breda/lunch-met-live-muziek,stad-sub,Breda,Lunch met live muziek in Breda,lunch met live muziek breda,commercial,P2,TBD KWO,toegevoegd
+/breda/vrijgezellenfeest,stad-sub,Breda,Vrijgezellenfeest in Breda,vrijgezellenfeest breda,transactional,P1,TBD KWO,toegevoegd - hoge bookings-intent
+/breda/bedrijfsuitje,stad-sub,Breda,Bedrijfsuitje in Breda,bedrijfsuitje breda,transactional,P1,TBD KWO,toegevoegd - zakelijke intent
+/breda/borrel-locatie,stad-sub,Breda,Borrellocatie in Breda,borrellocatie breda,transactional,P2,TBD KWO,toegevoegd
+/breda/feestlocatie,stad-sub,Breda,Feestlocatie in Breda,feestlocatie breda,transactional,P1,TBD KWO,toegevoegd
+/breda/trouwlocatie,stad-sub,Breda,Trouwlocatie in Breda,trouwlocatie breda,transactional,P1,TBD KWO,toegevoegd - bruiloftsilo binding
+/breda/verjaardagsfeest-locatie,stad-sub,Breda,Verjaardagsfeest locatie Breda,verjaardagsfeest locatie breda,transactional,P2,TBD KWO,toegevoegd
+/breda/evenementenlocatie,stad-sub,Breda,Evenementenlocatie in Breda,evenementenlocatie breda,transactional,P2,TBD KWO,toegevoegd - B2B intent
+/utrecht,stad-hub,Utrecht,Uitgaan in Utrecht - alle hotspots,uitgaan utrecht,informational,P0,TBD KWO,stad-hub
+/utrecht/pianobar,stad-sub,Utrecht,Pianobar Utrecht,pianobar utrecht,commercial,P1,TBD KWO,uit briefing
+/utrecht/cafe-met-live-muziek,stad-sub,Utrecht,Café met live muziek in Utrecht,cafe met live muziek utrecht,commercial,P1,TBD KWO,uit briefing
+/utrecht/dineren-met-live-muziek,stad-sub,Utrecht,Dineren met live muziek in Utrecht,dineren met live muziek utrecht,commercial,P1,TBD KWO,uit briefing
+/utrecht/restaurant-met-live-muziek,stad-sub,Utrecht,Restaurant met live muziek Utrecht,restaurant met live muziek utrecht,commercial,P1,TBD KWO,uit briefing
+/utrecht/uitjes,stad-sub,Utrecht,Uitjes in Utrecht,uitjes in utrecht,informational,P1,TBD KWO,uit briefing
+/utrecht/wat-te-doen,stad-sub,Utrecht,Wat te doen in Utrecht,wat te doen in utrecht,informational,P1,TBD KWO,uit briefing
+/utrecht/bezienswaardigheden,stad-sub,Utrecht,Bezienswaardigheden in Utrecht,bezienswaardigheden utrecht,informational,P2,TBD KWO,uit briefing
+/utrecht/date-activiteiten,stad-sub,Utrecht,Date-activiteiten in Utrecht,date activiteiten utrecht,commercial,P1,TBD KWO,uit briefing
+/utrecht/live-muziek,stad-sub,Utrecht,Live muziek in Utrecht,live muziek utrecht,commercial,P0,TBD KWO,hoogste relevantie
+/utrecht/stappen,stad-sub,Utrecht,Stappen in Utrecht,stappen in utrecht,informational,P2,TBD KWO,toegevoegd
+/utrecht/kroegen,stad-sub,Utrecht,Kroegen in Utrecht,kroegen utrecht,commercial,P2,TBD KWO,toegevoegd
+/utrecht/avondje-uit,stad-sub,Utrecht,Avondje uit in Utrecht,avondje uit utrecht,informational,P2,TBD KWO,toegevoegd
+/utrecht/lunch-met-live-muziek,stad-sub,Utrecht,Lunch met live muziek in Utrecht,lunch met live muziek utrecht,commercial,P2,TBD KWO,toegevoegd
+/utrecht/vrijgezellenfeest,stad-sub,Utrecht,Vrijgezellenfeest in Utrecht,vrijgezellenfeest utrecht,transactional,P1,TBD KWO,toegevoegd
+/utrecht/bedrijfsuitje,stad-sub,Utrecht,Bedrijfsuitje in Utrecht,bedrijfsuitje utrecht,transactional,P1,TBD KWO,toegevoegd
+/utrecht/borrel-locatie,stad-sub,Utrecht,Borrellocatie in Utrecht,borrellocatie utrecht,transactional,P2,TBD KWO,toegevoegd
+/utrecht/feestlocatie,stad-sub,Utrecht,Feestlocatie in Utrecht,feestlocatie utrecht,transactional,P1,TBD KWO,toegevoegd
+/utrecht/trouwlocatie,stad-sub,Utrecht,Trouwlocatie in Utrecht,trouwlocatie utrecht,transactional,P1,TBD KWO,toegevoegd
+/utrecht/verjaardagsfeest-locatie,stad-sub,Utrecht,Verjaardagsfeest locatie Utrecht,verjaardagsfeest locatie utrecht,transactional,P2,TBD KWO,toegevoegd
+/utrecht/evenementenlocatie,stad-sub,Utrecht,Evenementenlocatie in Utrecht,evenementenlocatie utrecht,transactional,P2,TBD KWO,toegevoegd - B2B intent
+/eindhoven,stad-hub,Eindhoven,Uitgaan in Eindhoven - alle hotspots,uitgaan eindhoven,informational,P0,TBD KWO,stad-hub
+/eindhoven/pianobar,stad-sub,Eindhoven,Pianobar Eindhoven,pianobar eindhoven,commercial,P1,TBD KWO,uit briefing
+/eindhoven/cafe-met-live-muziek,stad-sub,Eindhoven,Café met live muziek in Eindhoven,cafe met live muziek eindhoven,commercial,P1,TBD KWO,uit briefing
+/eindhoven/dineren-met-live-muziek,stad-sub,Eindhoven,Dineren met live muziek in Eindhoven,dineren met live muziek eindhoven,commercial,P1,TBD KWO,uit briefing
+/eindhoven/restaurant-met-live-muziek,stad-sub,Eindhoven,Restaurant met live muziek Eindhoven,restaurant met live muziek eindhoven,commercial,P1,TBD KWO,uit briefing
+/eindhoven/uitjes,stad-sub,Eindhoven,Uitjes in Eindhoven,uitjes in eindhoven,informational,P1,TBD KWO,uit briefing
+/eindhoven/wat-te-doen,stad-sub,Eindhoven,Wat te doen in Eindhoven,wat te doen in eindhoven,informational,P1,TBD KWO,uit briefing
+/eindhoven/bezienswaardigheden,stad-sub,Eindhoven,Bezienswaardigheden in Eindhoven,bezienswaardigheden eindhoven,informational,P2,TBD KWO,uit briefing
+/eindhoven/date-activiteiten,stad-sub,Eindhoven,Date-activiteiten in Eindhoven,date activiteiten eindhoven,commercial,P1,TBD KWO,uit briefing
+/eindhoven/live-muziek,stad-sub,Eindhoven,Live muziek in Eindhoven,live muziek eindhoven,commercial,P0,TBD KWO,hoogste relevantie
+/eindhoven/stappen,stad-sub,Eindhoven,Stappen in Eindhoven,stappen in eindhoven,informational,P2,TBD KWO,toegevoegd
+/eindhoven/kroegen,stad-sub,Eindhoven,Kroegen in Eindhoven,kroegen eindhoven,commercial,P2,TBD KWO,toegevoegd
+/eindhoven/avondje-uit,stad-sub,Eindhoven,Avondje uit in Eindhoven,avondje uit eindhoven,informational,P2,TBD KWO,toegevoegd
+/eindhoven/lunch-met-live-muziek,stad-sub,Eindhoven,Lunch met live muziek in Eindhoven,lunch met live muziek eindhoven,commercial,P2,TBD KWO,toegevoegd
+/eindhoven/vrijgezellenfeest,stad-sub,Eindhoven,Vrijgezellenfeest in Eindhoven,vrijgezellenfeest eindhoven,transactional,P1,TBD KWO,toegevoegd
+/eindhoven/bedrijfsuitje,stad-sub,Eindhoven,Bedrijfsuitje in Eindhoven,bedrijfsuitje eindhoven,transactional,P1,TBD KWO,toegevoegd
+/eindhoven/borrel-locatie,stad-sub,Eindhoven,Borrellocatie in Eindhoven,borrellocatie eindhoven,transactional,P2,TBD KWO,toegevoegd
+/eindhoven/feestlocatie,stad-sub,Eindhoven,Feestlocatie in Eindhoven,feestlocatie eindhoven,transactional,P1,TBD KWO,toegevoegd
+/eindhoven/trouwlocatie,stad-sub,Eindhoven,Trouwlocatie in Eindhoven,trouwlocatie eindhoven,transactional,P1,TBD KWO,toegevoegd
+/eindhoven/verjaardagsfeest-locatie,stad-sub,Eindhoven,Verjaardagsfeest locatie Eindhoven,verjaardagsfeest locatie eindhoven,transactional,P2,TBD KWO,toegevoegd
+/eindhoven/evenementenlocatie,stad-sub,Eindhoven,Evenementenlocatie in Eindhoven,evenementenlocatie eindhoven,transactional,P2,TBD KWO,toegevoegd - B2B intent
+/rotterdam,stad-hub,Rotterdam,Uitgaan in Rotterdam - alle hotspots,uitgaan rotterdam,informational,P0,TBD KWO,stad-hub - aandachtspunt briefing: bijzonder restaurant uitlichten
+/rotterdam/pianobar,stad-sub,Rotterdam,Pianobar Rotterdam,pianobar rotterdam,commercial,P1,TBD KWO,uit briefing
+/rotterdam/cafe-met-live-muziek,stad-sub,Rotterdam,Café met live muziek in Rotterdam,cafe met live muziek rotterdam,commercial,P1,TBD KWO,uit briefing
+/rotterdam/dineren-met-live-muziek,stad-sub,Rotterdam,Dineren met live muziek in Rotterdam,dineren met live muziek rotterdam,commercial,P1,TBD KWO,uit briefing
+/rotterdam/restaurant-met-live-muziek,stad-sub,Rotterdam,Restaurant met live muziek Rotterdam,restaurant met live muziek rotterdam,commercial,P0,TBD KWO,uit briefing + apart bijzonder restaurant uitlichten
+/rotterdam/uitjes,stad-sub,Rotterdam,Uitjes in Rotterdam,uitjes in rotterdam,informational,P1,TBD KWO,uit briefing
+/rotterdam/wat-te-doen,stad-sub,Rotterdam,Wat te doen in Rotterdam,wat te doen in rotterdam,informational,P1,TBD KWO,uit briefing
+/rotterdam/bezienswaardigheden,stad-sub,Rotterdam,Bezienswaardigheden in Rotterdam,bezienswaardigheden rotterdam,informational,P2,TBD KWO,uit briefing
+/rotterdam/date-activiteiten,stad-sub,Rotterdam,Date-activiteiten in Rotterdam,date activiteiten rotterdam,commercial,P1,TBD KWO,uit briefing
+/rotterdam/live-muziek,stad-sub,Rotterdam,Live muziek in Rotterdam,live muziek rotterdam,commercial,P0,TBD KWO,hoogste relevantie
+/rotterdam/stappen,stad-sub,Rotterdam,Stappen in Rotterdam,stappen in rotterdam,informational,P2,TBD KWO,toegevoegd
+/rotterdam/kroegen,stad-sub,Rotterdam,Kroegen in Rotterdam,kroegen rotterdam,commercial,P2,TBD KWO,toegevoegd
+/rotterdam/avondje-uit,stad-sub,Rotterdam,Avondje uit in Rotterdam,avondje uit rotterdam,informational,P2,TBD KWO,toegevoegd
+/rotterdam/lunch-met-live-muziek,stad-sub,Rotterdam,Lunch met live muziek in Rotterdam,lunch met live muziek rotterdam,commercial,P2,TBD KWO,toegevoegd
+/rotterdam/vrijgezellenfeest,stad-sub,Rotterdam,Vrijgezellenfeest in Rotterdam,vrijgezellenfeest rotterdam,transactional,P1,TBD KWO,toegevoegd
+/rotterdam/bedrijfsuitje,stad-sub,Rotterdam,Bedrijfsuitje in Rotterdam,bedrijfsuitje rotterdam,transactional,P1,TBD KWO,toegevoegd
+/rotterdam/borrel-locatie,stad-sub,Rotterdam,Borrellocatie in Rotterdam,borrellocatie rotterdam,transactional,P2,TBD KWO,toegevoegd
+/rotterdam/feestlocatie,stad-sub,Rotterdam,Feestlocatie in Rotterdam,feestlocatie rotterdam,transactional,P1,TBD KWO,toegevoegd
+/rotterdam/trouwlocatie,stad-sub,Rotterdam,Trouwlocatie in Rotterdam,trouwlocatie rotterdam,transactional,P1,TBD KWO,toegevoegd
+/rotterdam/verjaardagsfeest-locatie,stad-sub,Rotterdam,Verjaardagsfeest locatie Rotterdam,verjaardagsfeest locatie rotterdam,transactional,P2,TBD KWO,toegevoegd
+/rotterdam/evenementenlocatie,stad-sub,Rotterdam,Evenementenlocatie in Rotterdam,evenementenlocatie rotterdam,transactional,P2,TBD KWO,toegevoegd - B2B intent
+/renesse,stad-hub,Renesse,Uitgaan in Renesse - alle hotspots,uitgaan renesse,informational,P0,TBD KWO,stad-hub - toeristische/kustdorp varianten
+/renesse/pianobar,stad-sub,Renesse,Pianobar Renesse,pianobar renesse,commercial,P1,TBD KWO,uit briefing
+/renesse/cafe-met-live-muziek,stad-sub,Renesse,Café met live muziek in Renesse,cafe met live muziek renesse,commercial,P1,TBD KWO,uit briefing
+/renesse/dineren-met-live-muziek,stad-sub,Renesse,Dineren met live muziek in Renesse,dineren met live muziek renesse,commercial,P1,TBD KWO,uit briefing
+/renesse/restaurant-met-live-muziek,stad-sub,Renesse,Restaurant met live muziek Renesse,restaurant met live muziek renesse,commercial,P1,TBD KWO,uit briefing
+/renesse/uitjes,stad-sub,Renesse,Uitjes in Renesse en Zeeland,uitjes renesse,informational,P1,TBD KWO,uit briefing
+/renesse/wat-te-doen,stad-sub,Renesse,Wat te doen in Renesse,wat te doen in renesse,informational,P0,TBD KWO,uit briefing - hoog toeristisch volume
+/renesse/bezienswaardigheden,stad-sub,Renesse,Bezienswaardigheden in Renesse,bezienswaardigheden renesse,informational,P2,TBD KWO,uit briefing
+/renesse/date-activiteiten,stad-sub,Renesse,Date-activiteiten in Renesse,date activiteiten renesse,commercial,P2,TBD KWO,uit briefing
+/renesse/live-muziek,stad-sub,Renesse,Live muziek in Renesse,live muziek renesse,commercial,P0,TBD KWO,hoogste relevantie
+/renesse/stappen,stad-sub,Renesse,Stappen in Renesse,stappen renesse,informational,P1,TBD KWO,toegevoegd - sterk in Renesse
+/renesse/kroegen,stad-sub,Renesse,Kroegen in Renesse,kroegen renesse,commercial,P2,TBD KWO,toegevoegd
+/renesse/avondje-uit,stad-sub,Renesse,Avondje uit in Renesse,avondje uit renesse,informational,P2,TBD KWO,toegevoegd
+/renesse/nachtleven,stad-sub,Renesse,Nachtleven in Renesse,nachtleven renesse,informational,P1,TBD KWO,Renesse-substitutie (i.p.v. lunch-met-live-muziek)
+/renesse/strandtenten,stad-sub,Renesse,Strandtenten in Renesse,strandtenten renesse,commercial,P1,TBD KWO,Renesse-substitutie (i.p.v. vrijgezellenfeest)
+/renesse/weekendje-weg,stad-sub,Renesse,Weekendje weg in Renesse,weekendje weg renesse,transactional,P1,TBD KWO,Renesse-substitutie (i.p.v. bedrijfsuitje)
+/renesse/wat-te-doen-bij-regen,stad-sub,Renesse,Wat te doen bij regen in Renesse,wat te doen bij regen renesse,informational,P2,TBD KWO,Renesse-substitutie (i.p.v. borrellocatie)
+/renesse/wat-te-doen-met-kinderen,stad-sub,Renesse,Wat te doen met kinderen in Renesse,wat te doen met kinderen renesse,informational,P1,TBD KWO,Renesse-substitutie (i.p.v. feestlocatie)
+/renesse/vakantie,stad-sub,Renesse,Vakantie in Renesse,vakantie renesse,informational,P1,TBD KWO,Renesse-substitutie (i.p.v. trouwlocatie)
+/renesse/activiteiten,stad-sub,Renesse,Activiteiten in Renesse,activiteiten renesse,informational,P2,TBD KWO,Renesse-substitutie (i.p.v. verjaardagsfeest)
+/renesse/fietsen,stad-sub,Renesse,Fietsen in en rond Renesse,fietsen renesse,informational,P2,TBD KWO,Renesse-substitutie (i.p.v. evenementenlocatie) - toeristisch
+/pianoband,silo-hub,Pianoband,Pianoband huren,pianoband huren,commercial,P0,TBD KWO,silo-hub
+/pianoband/wat-kost-een-pianoband,silo-sub,Pianoband,Wat kost een pianoband?,pianoband kosten,commercial,P1,TBD KWO,supporting content - prijs intent
+/pianoband/pianoshow-boeken,silo-sub,Pianoband,Pianoshow boeken,pianoshow boeken,transactional,P1,TBD KWO,supporting content
+/pianoband/akoestische-pianoband,silo-sub,Pianoband,Akoestische pianoband,akoestische pianoband,commercial,P2,TBD KWO,supporting content - format variant
+/pianoband/pianoband-vs-pianist,silo-sub,Pianoband,Pianoband of pianist boeken?,pianist of pianoband,informational,P2,TBD KWO,supporting content - vergelijking
+/coverband,silo-hub,Coverband,Coverband huren,coverband huren,commercial,P0,TBD KWO,silo-hub
+/coverband/wat-kost-een-coverband,silo-sub,Coverband,Wat kost een coverband?,coverband kosten,commercial,P1,TBD KWO,supporting content
+/coverband/coverband-boeken,silo-sub,Coverband,Coverband boeken,coverband boeken,transactional,P1,TBD KWO,supporting content
+/coverband/coverband-repertoire,silo-sub,Coverband,Coverband repertoire,coverband repertoire,informational,P2,TBD KWO,supporting content
+/coverband/beste-coverband-nederland,silo-sub,Coverband,Beste coverband van Nederland,beste coverband nederland,commercial,P2,TBD KWO,supporting content - autoriteit
+/bruiloftband,silo-hub,Bruiloftband,Bruiloftband huren,bruiloftband huren,commercial,P0,TBD KWO,silo-hub
+/bruiloftband/wat-kost-een-bruiloftband,silo-sub,Bruiloftband,Wat kost een bruiloftband?,bruiloftband kosten,commercial,P1,TBD KWO,supporting content - hoge bookings-intent
+/bruiloftband/akoestische-bruiloftband,silo-sub,Bruiloftband,Akoestische bruiloftband,akoestische bruiloftband,commercial,P2,TBD KWO,supporting content - format
+/bruiloftband/bruiloftband-repertoire,silo-sub,Bruiloftband,Bruiloftband repertoire,bruiloftband repertoire,informational,P2,TBD KWO,supporting content
+/bruiloftband/live-muziek-bruiloft,silo-sub,Bruiloftband,Live muziek voor je bruiloft,live muziek bruiloft,commercial,P1,TBD KWO,supporting content - groter zoekvolume
+/bedrijfsfeest-band,silo-hub,Bedrijfsfeest-band,Bedrijfsfeest band huren,bedrijfsfeest band,commercial,P0,TBD KWO,silo-hub - omvat ook bedrijfsband
+/bedrijfsfeest-band/personeelsfeest-band,silo-sub,Bedrijfsfeest-band,Band voor personeelsfeest,personeelsfeest band,commercial,P1,TBD KWO,supporting content
+/bedrijfsfeest-band/wat-kost-een-bedrijfsfeest-band,silo-sub,Bedrijfsfeest-band,Wat kost een bedrijfsfeest band?,bedrijfsfeest band kosten,commercial,P1,TBD KWO,supporting content
+/bedrijfsfeest-band/bedrijfsfeest-organiseren,silo-sub,Bedrijfsfeest-band,Bedrijfsfeest organiseren met live muziek,bedrijfsfeest organiseren,informational,P2,TBD KWO,supporting content
+/bedrijfsfeest-band/kerstborrel-band,silo-sub,Bedrijfsfeest-band,Band voor je kerstborrel,kerstborrel band,commercial,P2,TBD KWO,supporting content - seizoenspagina
+/jubileumband,silo-hub,Jubileumband,Jubileumband huren,jubileumband huren,commercial,P0,TBD KWO,silo-hub
+/jubileumband/wat-kost-een-jubileumband,silo-sub,Jubileumband,Wat kost een jubileumband?,jubileumband kosten,commercial,P1,TBD KWO,supporting content
+/jubileumband/bedrijfsjubileum-band,silo-sub,Jubileumband,Band voor bedrijfsjubileum,bedrijfsjubileum band,commercial,P1,TBD KWO,supporting content
+/jubileumband/25-jarig-jubileum-feest,silo-sub,Jubileumband,Band voor 25-jarig jubileumfeest,25 jarig jubileum band,commercial,P2,TBD KWO,supporting content
+/jubileumband/jubileumfeest-organiseren,silo-sub,Jubileumband,Jubileumfeest organiseren met live muziek,jubileumfeest organiseren,informational,P2,TBD KWO,supporting content
